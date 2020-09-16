@@ -29,6 +29,21 @@
       "static/chunks/webpack.js",
       "static/chunks/pages/_error.js"
     ],
+    "/blog": [
+      "static/chunks/main.js",
+      "static/chunks/webpack.js",
+      "static/chunks/pages/blog.js"
+    ],
+    "/next/dist/pages/_error": [
+      "static/chunks/main.js",
+      "static/chunks/webpack.js",
+      "static/chunks/pages/next/dist/pages/_error.js"
+    ],
+    "/purchase": [
+      "static/chunks/main.js",
+      "static/chunks/webpack.js",
+      "static/chunks/pages/purchase.js"
+    ],
     "/releases": [
       "static/chunks/main.js",
       "static/chunks/webpack.js",

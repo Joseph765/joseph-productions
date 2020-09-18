@@ -1,0 +1,27 @@
+.releases {
+  margin-bottom: 5%;
+}
+
+.album {
+  display: flex;
+}
+
+.songs {
+  width: 29.539%;
+}
+
+.album {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10%;
+}
+
+.audioPlayer {
+  /* display: none; */
+}
+
+.albumCover {
+  margin-right: 30px;
+  width: 300px;
+  height: 300px;
+}

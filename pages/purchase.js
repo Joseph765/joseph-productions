@@ -3,7 +3,6 @@ import Header from './header';
 import data from '../db/data.json';
 
 export default function Purchase() {
-
   return (
     <div className={styles.container}>
       <Header />
